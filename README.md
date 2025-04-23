@@ -5,15 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dikjain" alt="dikjain" /></a> </p>
 
-- 🌱 I’m currently learning **How to get a Job**
-
-- 👨‍💻 All of my projects are proof how bad i am at coding, proof - [https://github.com/dikjain/Chat_app](https://github.com/dikjain/Chat_app)
-
-- 💬 Ask me about **how worthless i am**
-
-- 📫 You Can Disturb Me at **dikshitmahanot2005@gmail.com**
-
-- ⚡ Fun fact **I Think i'm smart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
